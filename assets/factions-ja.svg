@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',sans-serif">
+<rect width="760" height="560" fill="#ffffff"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8c959f"/></marker></defs>
+<text x="24" y="36" font-size="17" font-weight="600" fill="#1f2328">米国の政治陣営：AI の速度 × 利益の分配</text>
+<g stroke="#8c959f" stroke-width="1.25" fill="none">
+<path d="M70 285.0H700" marker-end="url(#a)" marker-start="url(#a)"/>
+<path d="M385.0 480V90" marker-end="url(#a)" marker-start="url(#a)"/>
+</g>
+<text x="70" y="275.0" font-size="12" fill="#57606a">減速・規制</text>
+<text x="700" y="275.0" text-anchor="end" font-size="12" fill="#57606a">加速</text>
+<text x="395.0" y="96" font-size="12" fill="#57606a">利益の公共化（再分配・公的持株）</text>
+<text x="395.0" y="480" font-size="12" fill="#57606a">利益は市場に残す</text>
+<circle cx="640" cy="420" r="8" fill="#d1242f" fill-opacity="0.85"/><text x="628" y="418" text-anchor="end" font-size="14" font-weight="600" fill="#1f2328">ホワイトハウスとテック右派</text><text x="628" y="436" text-anchor="end" font-size="12" fill="#57606a">トランプ、サックス</text>
+<circle cx="250" cy="400" r="8" fill="#bc4c00" fill-opacity="0.85"/><text x="238" y="398" text-anchor="end" font-size="14" font-weight="600" fill="#1f2328">ポピュリスト右派</text><text x="238" y="416" text-anchor="end" font-size="12" fill="#57606a">バノン、ホーリー</text>
+<circle cx="130" cy="140" r="8" fill="#2f6fdb" fill-opacity="0.85"/><text x="142" y="138" text-anchor="start" font-size="14" font-weight="600" fill="#1f2328">民主党進歩派</text><text x="142" y="156" text-anchor="start" font-size="12" fill="#57606a">サンダース：政府系ファンド</text>
+<circle cx="260" cy="330" r="8" fill="#1a7f37" fill-opacity="0.85"/><text x="248" y="328" text-anchor="end" font-size="14" font-weight="600" fill="#1f2328">民主党主流派と州政府</text><text x="248" y="346" text-anchor="end" font-size="12" fill="#57606a">ホークル、カリフォルニア州、州司法長官</text>
+<circle cx="640" cy="170" r="8" fill="#8250df" fill-opacity="0.85"/><text x="628" y="168" text-anchor="end" font-size="14" font-weight="600" fill="#1f2328">一部の AI 企業・投資家</text><text x="628" y="186" text-anchor="end" font-size="12" fill="#57606a">OpenAI 公共富基金、マスク</text>
+<text x="24" y="535" font-size="12" fill="#57606a">位置は定性的な分類であり、測定値ではない。2026 年 11 月時点。</text>
+</svg>

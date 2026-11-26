@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 310" font-family="'Inter','Helvetica Neue',Arial,sans-serif">
+<rect width="760" height="310" fill="#ffffff"/>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8c959f"/></marker>
+<marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#2f6fdb"/></marker>
+</defs>
+<text x="24" y="36" font-size="17" font-weight="600" fill="#1f2328">AI breaks one link: firms hiring the base</text>
+<g fill="none" stroke="#8c959f" stroke-width="1.5">
+<path d="M285.0 110H475.0" marker-end="url(#a)"/>
+<path d="M600 136.0V224.0" marker-end="url(#a)"/>
+<path d="M475.0 250H285.0" marker-end="url(#a)"/>
+<path d="M160 224.0V136.0" marker-end="url(#a)"/>
+</g>
+<rect x="35.0" y="84.0" width="250" height="52" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="160" y="115" text-anchor="middle" font-size="14" fill="#1f2328">The base sells its time</text>
+<rect x="475.0" y="84.0" width="250" height="52" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="600" y="115" text-anchor="middle" font-size="14" fill="#1f2328">Wage income</text>
+<rect x="475.0" y="224.0" width="250" height="52" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="600" y="255" text-anchor="middle" font-size="14" fill="#1f2328">Effective demand</text>
+<rect x="35.0" y="224.0" width="250" height="52" rx="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.25"/><text x="160" y="255" text-anchor="middle" font-size="14" fill="#1f2328">Firms produce and hire</text>
+<g stroke="#cf222e" stroke-width="2.5"><line x1="149" y1="169" x2="171" y2="191"/><line x1="171" y1="169" x2="149" y2="191"/></g>
+<rect x="330" y="154" width="230" height="52" rx="8" fill="#2f6fdb" fill-opacity="0.12" stroke="#2f6fdb" stroke-width="2"/>
+<text x="445" y="185" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">AI: compute does the work</text>
+<path d="M330 180H178" fill="none" stroke="#2f6fdb" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#b)"/>
+<text x="380" y="100" text-anchor="middle" font-size="12" fill="#57606a">wages</text>
+<text x="612" y="185" font-size="12" fill="#57606a">spending</text>
+<text x="380" y="240" text-anchor="middle" font-size="12" fill="#57606a">orders</text>
+<text x="178" y="168" font-size="12" fill="#57606a">people no longer needed</text>
+</svg>

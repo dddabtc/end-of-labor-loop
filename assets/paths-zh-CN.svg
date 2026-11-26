@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif">
+<rect width="760" height="360" fill="#ffffff"/>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8c959f"/></marker>
+<marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#cf222e"/></marker>
+</defs>
+<text x="24" y="36" font-size="17" font-weight="600" fill="#1f2328">割裂之后的三条路径</text>
+<rect x="230" y="76" width="300" height="48" rx="8" fill="#2f6fdb" fill-opacity="0.12" stroke="#2f6fdb" stroke-width="2"/>
+<text x="380" y="105" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">选票仍在，劳动权丧失</text>
+<g fill="none" stroke="#8c959f" stroke-width="1.5">
+<path d="M300 124V150H128V234.0" marker-end="url(#a)"/>
+<path d="M380 124V234.0" marker-end="url(#a)"/>
+<path d="M460 124V150H632V234.0" marker-end="url(#a)"/>
+</g>
+<rect x="25.0" y="234.0" width="206" height="72" rx="8" fill="#1a7f37" fill-opacity="0.08" stroke="#1a7f37" stroke-width="1.5"/><text x="128" y="264" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">A. 再分配契约</text><text x="128" y="286" text-anchor="middle" font-size="11.5" fill="#57606a">主权基金、分红、基本收入</text>
+<rect x="277.0" y="234.0" width="206" height="72" rx="8" fill="#cf222e" fill-opacity="0.08" stroke="#cf222e" stroke-width="1.5"/><text x="380" y="264" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">B. 两极化与强人政治</text><text x="380" y="286" text-anchor="middle" font-size="11.5" fill="#57606a">再分配受阻，民粹竞相激进</text>
+<rect x="529.0" y="234.0" width="206" height="72" rx="8" fill="#57606a" fill-opacity="0.08" stroke="#57606a" stroke-width="1.5"/><text x="632" y="264" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">C. 空心选举</text><text x="632" y="286" text-anchor="middle" font-size="11.5" fill="#57606a">形式保留，决策移出选民射程</text>
+<g fill="none" stroke="#cf222e" stroke-width="1.5" stroke-dasharray="5 4">
+<path d="M231.0 290H277.0" marker-end="url(#r)"/>
+<path d="M483.0 290H529.0" marker-end="url(#r)"/>
+</g>
+<text x="254.0" y="322" text-anchor="middle" font-size="11.5" fill="#cf222e">立法失败</text>
+<text x="506.0" y="322" text-anchor="middle" font-size="11.5" fill="#cf222e">以恢复秩序为名</text>
+<text x="24" y="345" font-size="12" fill="#57606a">三条路径并不互斥，可能依次出现。</text>
+</svg>
